@@ -1,0 +1,2 @@
+# VTS_VideoToArtMesh
+一个用于VTubeStudio的插件，在模型的ArtMesh上播放本地视频文件。
